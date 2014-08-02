@@ -7,8 +7,8 @@
  "default_icon": "128.png",
  "default_title": "Wed.is"
  },
- "name": "Wed.is",
- "description": "Add products from any online store to your wedding registry.",
+ "name": "Wed.is Cataloging Button",
+ "description": "Add products from any online store to your Wed.is wedding registry.",
  "homepage_url": "https://wed.is",
  "icons": {
      "16": "16.png",

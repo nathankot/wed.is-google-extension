@@ -8,6 +8,7 @@
  "default_title": "Wed.is"
  },
  "name": "Wed.is",
+ "short name": "Wed.is",
  "description": "Add products from any online store to your wedding registry.",
  "homepage_url": "https://wed.is",
  "icons": {

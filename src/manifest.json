@@ -4,10 +4,10 @@
    "persistent": false
  },
  "browser_action": {
- "default_icon": "128.png",
- "default_title": "Wed.is"
+  "default_icon": "128.png",
+  "default_title": "Add to your registry."
  },
- "name": "Wed.is Cataloging Button",
+ "name": "Want-it Button - Wed.is",
  "description": "Add products from any online store to your Wed.is wedding registry.",
  "homepage_url": "https://wed.is",
  "icons": {

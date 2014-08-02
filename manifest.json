@@ -11,9 +11,9 @@
  "description": "Add products from any online store to your wedding registry.",
  "homepage_url": "https://wed.is",
  "icons": {
-     "16": "icon-16.png",
-     "48": "icon-48.png",
-     "128": "icon-128.png" },
+     "16": "16.png",
+     "48": "48.png",
+     "128": "128.png" },
  "permissions": [
      "activeTab",
      "http://*/*",
